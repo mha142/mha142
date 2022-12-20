@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maha</h1>
-<h3 align="center"> ...<img src= https://cdn.britannica.com/79/5779-004-DC479508/Flag-Saudi-Arabia.jpg width="60" height="40">... <br>I am a PhD student at Visual Computing,<br>School of Computing, <br> Clemson University <br><img src=https://upload.wikimedia.org/wikipedia/commons/7/72/Clemson_Tigers_logo.svg  width="40" height="40"> </h3>
+<h3 align="center"> ...<img src=https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif width="60" height="40">... <br>I am a PhD student at Visual Computing,<br>School of Computing, <br> Clemson University <br><img src=https://upload.wikimedia.org/wikipedia/commons/7/72/Clemson_Tigers_logo.svg  width="40" height="40"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mha142&label=Profile%20views&color=0e75b6&style=flat" alt="mha142" /> </p>
 
