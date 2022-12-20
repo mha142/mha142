@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **AI, CG**
 
+- 📫 How to reach me **malmaim@clemson.edu**
+
+- 📄 Know about my experiences [https://mha142.github.io/](https://mha142.github.io/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
