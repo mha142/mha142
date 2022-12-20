@@ -1,3 +1,5 @@
+[![MasterHead](https://beforecollege.tv/wp-content/uploads/2020/06/Clemson-twitter.jpg)]
+
 <h1 align="center">Hi 👋, I'm Maha</h1>
 <h3 align="center"> ...<img src=https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif width="60" height="40">... <br>I am a PhD student at Visual Computing,<br>School of Computing, <br> Clemson University <br><img src=https://upload.wikimedia.org/wikipedia/commons/7/72/Clemson_Tigers_logo.svg  width="40" height="40"> </h3>
 
