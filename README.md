@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **AI, CG**
 
-- 📫 How to reach me **malmaim@clemson.edu**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
