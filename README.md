@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maha 🇸🇦</h1>
+<h1 align="center">Hi 👋, I'm Maha</h1>
 <h3 align="center">I am a PhD student in Clemson University</h3>
 
 - 🌱 I’m currently learning **AI, CG**
